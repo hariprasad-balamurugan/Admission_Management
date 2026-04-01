@@ -204,3 +204,6 @@ npm start
 - Advanced CRM workflows
 - Multi-college management
 - Marketing automation
+
+## Demo
+<video controls src="Admission Management.mp4" title="Demo"></video>
