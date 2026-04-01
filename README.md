@@ -205,5 +205,5 @@ npm start
 - Multi-college management
 - Marketing automation
 
-## Demo
-[Watch Demo](./Admission%20Management.mp4)
+## Demo Link
+👉 https://drive.google.com/file/d/183OdP_NZ7m7h0i-y4dc4MEDek5VvXwkd/view?usp=sharing
