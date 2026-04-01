@@ -206,4 +206,4 @@ npm start
 - Marketing automation
 
 ## Demo
-<video controls src="Admission Management.mp4" title="Demo"></video>
+[Watch Demo](./Admission%20Management.mp4)
